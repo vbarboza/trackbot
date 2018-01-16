@@ -1,0 +1,7 @@
+flask
+gunicorn
+requests
+unidecode
+numpy
+nltk
+scikit-learn

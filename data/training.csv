@@ -1,0 +1,152 @@
+B,tchau
+B,bye bye
+B,bye
+B,ciao
+B,obrigado
+B,tchau obrigado
+B,falou
+B,flw
+B,valeu
+B,vlw
+B,muito obrigado
+B,agradecido
+B,gratidão
+B,até mais
+B,até
+B,tchauzinho
+B,falou value
+B,flwvlw
+B,tchau tchau
+B,até logo
+G,bom dia
+G,boa tarde
+G,boa noite
+G,oi
+G,ola
+G,alo
+G,hey
+G,e ai?
+G,tudo bom?
+G,tudo bem?
+G,como vai?
+G, oi bom dia
+G, oi boa tarde
+G, oi boa noite
+G, ola bom dia
+G, ola boa tarde
+G, ola boa noite
+G, ola como vai
+G, ola como vai você
+G, como vai você
+G, tudo bom com você
+G, tudo bem com você
+G, ola como vai
+G, oi como vai
+G, ola tudo bem
+G, oi tudo bem
+G, ola tudo bom
+G, oi tudo bom
+G, alo e ai
+G, alo tudo bom
+G, alo como vai
+G, alo bom dia
+G, alo boa tarde
+G, alo boa noite
+G, fala
+G, beleza
+G, e ai beleza
+G, e ai tudo bom
+G, e ai como vai
+G, e aí como vai você?
+G, oi oi
+T,onde esta minha encomenda?
+T,onde esta minha compra?
+T,onde esta meu pedido?
+T,onde esta meu pacote?
+T,onde esta a encomenda?
+T,onde esta a compra?
+T,onde esta o pedido?
+T,onde esta o pacote?
+T,gostaria de saber
+T,poderia me dizer onde está minha encomenda?
+T,poderia me dizer onde está minha compra?
+T,poderia me dizer onde está meu pacote?
+T,poderia me dizer onde está meu pedido?
+T,queria saber onde está minha encomenda
+T,queria saber onde está minha compra
+T,queria saber onde está minha pacote
+T,queria saber onde está minha pedido
+T,preciso saber onde está minha encomenda
+T,preciso saber onde está minha compra
+T,preciso saber onde está meu pacote
+T,preciso saber onde está meu pedido
+T,preciso saber onde está minha encomenda
+T,preciso saber onde está minha compra
+T,preciso saber onde está meu pacote
+T,preciso saber onde está meu pedido
+T,cade meu pedido
+T,cade meu pacote
+T,cade minha compra
+T,cade minha encomenda
+T,voce sabe onde está minha encomenda?
+T,você sabe onde está minha compra?
+T,você sabe onde está meu pedido?
+T,você sabe onde está meu pacote?
+T,me diz onde está minha encomenda
+T,me diz onde está minha compra
+T,me diz onde está meu pacote
+T,me diz onde está meu pedeido
+T,rastreia meu pedido
+T,rastreia meu pacote
+T,rastreia minha compra
+T,rastreia minha encomenda
+T,confere meu pedido
+T,confere minha compra
+T,confere meu pacote
+T,confere minha encomenda
+T,verifica meu pedido
+T,verifica minha compra
+T,verifica meu pacote
+T,verifica minha encomenda
+T,acha meu pedido
+T,acha meu pacote
+T,acha minha compra
+T,acha minha encomenda
+C,meu pacote nao chegou
+C,meu pacote nao chega
+C,meu pacote esta atrasado
+C,meu pacote esta demorando
+C,meu pedido nao chegou
+C,meu pedido nao chega
+C,meu pedido esta atrasado
+C,meu pedido esta demorando
+C,minha encomenda nao chegou
+C,minha encomenda nao chega
+C,minha encomenda esta atrasado
+C,minha encomenda esta demorando
+C,minha compra nao chegou
+C,minha compra nao chega
+C,minha compra esta atrasado
+C,minha compra esta demorando
+C,nao recebi meu pedido
+C,nao recebi meu pacote
+C,nao recebi minha encomenda
+C,nao recebi minha compra
+H,voca pode me ajudar?
+H,poderia me ajudar?
+H,como pode me ajudar?
+H,me ajuda
+H,pode me ajudar?
+H,preciso de ajuda
+H,como faço?
+H,não sei o que fazer
+H,ajuda
+H,como faço?
+H,como fazer?
+H,como faz?
+H,o que eu faço?
+H,o que você faz?
+H,o que tenho que fazer?
+H,o que pode fazer?
+H,o que você pode fazer?
+H,o que é que você faz?

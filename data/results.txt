@@ -1,0 +1,6 @@
+Desculpe, mas parece que o sistema está fora do ar. Tente novamente mais tarde!
+Desculpe, mas não encontrei nada!
+A encomenda {} foi postada no dia {}.
+Sua encomenda foi encaminhada do {} para o {}.
+Sua encomenda já saiu para entrega do {} e logo deve chegar!
+Sua encomenda já foi entregue!
