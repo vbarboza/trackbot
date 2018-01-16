@@ -3,5 +3,6 @@ gunicorn
 requests
 unidecode
 numpy
+scipy
 nltk
 scikit-learn
