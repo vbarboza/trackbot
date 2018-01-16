@@ -36,7 +36,6 @@ def webhook():
                        'message':{'text':c.get_response(text)}}
             # Send a response
             r = requests.post(FB_GRAPH + token, json=payload)
-            return r
         except Exception as e:
             # CRASH
             print(traceback.format_exc())
