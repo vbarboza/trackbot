@@ -46,7 +46,7 @@ def webhook():
                 return request.args.get('hub.challenge')
             # Failure
             return 'Failed!'
-        return 'Hello, world!'
+    return 'Hello, world!'
     
 if __name__ == '__main__':
     app.run(debug=True)
