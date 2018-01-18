@@ -32,8 +32,11 @@ def webhook():
             text = data['entry'][0]['messaging'][0]['message']['text']
             sender = data['entry'][0]['messaging'][0]['sender']['id']
             # Make a response
+            response = c.get_response(text)
+            print("IN: " + text)
+            print("OUT: " + response)
             payload = {'recipient':{'id':sender},
-                       'message':{'text':c.get_response(text)}}
+                       'message':{'text':response}}
             # Send a response
             r = requests.post(FB_GRAPH + token, json=payload)
         except Exception as e:
