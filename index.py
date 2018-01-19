@@ -36,7 +36,7 @@ def webhook():
             print("IN: " + text)
             print("OUT: " + response)
             payload = {'recipient':{'id':sender},
-                       'message':{'text':'Hello!'}}
+                       'message':{'text':c.get_response(text)}}
             # Send a response
             r = requests.post('https://graph.facebook.com/v2.6/me/messages/?access_token=' + token, json=payload)
         except Exception as e:
